@@ -1,0 +1,7 @@
+Instrucciones de como usar este codigo :)
+
+1 primero debes iniciar con el comando "npm init --y"
+2 luego instalar nodemon al proyecto  "npm i nodemon -g "
+3 luego instalar socket al proyecto como dependencia "npm i socket.io"
+
+y listo a programar se ha dicho...
